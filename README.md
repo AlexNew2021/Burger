@@ -1,4 +1,4 @@
 ## Burger
 
-- Мой учебный проект Пицца смотрите по  [ссылке](https://github.com/AlexNew2021/Project_Pizza)
+- Мой учебный проект Пицца смотрите по  [ссылке](https://alexnew2021.github.io/project_pizza/)
 - Использовано только CSS and HTML
